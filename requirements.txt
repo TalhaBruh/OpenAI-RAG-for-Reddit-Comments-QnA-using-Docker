@@ -1,0 +1,9 @@
+openai>=0.27.0
+tiktoken>=0.3.0
+regex==2023.5.5
+praw==7.7.1
+langchain==0.0.278
+pinecone-client[grpc]==2.2.4
+pandas==2.0.3
+streamlit==1.28.0
+python-dotenv==1.0.0
